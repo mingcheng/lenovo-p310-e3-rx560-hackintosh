@@ -37,7 +37,7 @@
 
 ## 硬件介绍
 
-相比前几台黑苹果 Dell 9020M 以及 Lenovo M93P 而言，台式机装黑苹果可选择的余地要大很多，而且几乎完美。以下为台式机硬件的主要配置：
+相比前几台黑苹果 [Dell 9020M](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) 以及 [Lenovo M93P](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) 而言，台式机装黑苹果可选择的余地要大很多，而且几乎完美。以下为台式机硬件的主要配置：
 
 ```
 CPU                         Intel Xeon E3-1231 v3 (8) @ 3.40GHz *
@@ -69,5 +69,6 @@ Hard Disk Driver            WDC WD20SPZX-75UA7T0 (2TB)
 * Wi-Fi、蓝牙【正常】拆机苹果网卡
 * Airdop、Handoff【正常】如上
 
+目前(20200102) uptime 最长的时间为 62d，相对来说已经非常稳定，可以用来日常开发使用。
 
 `- eof -`
